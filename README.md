@@ -37,11 +37,10 @@ It is divided in two main folders, a folder of each patent office, [USPTO](https
 
 [PATSTAT_EPO_patents](https://github.com/rcasaluce/code_final_project/tree/master/A_Data_Collection/EPO/PATSTAT_EPO_patents) folder: in this folder is stored the PASTAT dataset with information of the patents that I collected from the EPO office (link to download the whole PATSTAT dataset https://www.epo.org/searching-for-patents/business/patstat.html).
 
-<<<<<<< HEAD
 [EPO_parser.ipynb](https://github.com/Birkbeck/msc-data-science-project-2019-20-files-rcasaluce/edit/master/A_Data_Collection/EPO/EPO_parser.ipynb) script: with it, I parsed the patents from each of the 36 text files and saved a xlsx file for each of them in the folder [Data_parsed](https://github.com/Birkbeck/msc-data-science-project-2019-20-files-rcasaluce/edit/master/A_Data_Collection/EPO/Data_parsed).
-=======
+
 [EPO_parser.ipynb](https://github.com/rcasaluce/code_final_project/tree/master/A_Data_Collection/EPO/EPO_parser.ipynb) script: with it, the EPO patents were parsed from each of the 36 text files and saved a xlsx file for each of them in the folder [Data_parsed](https://github.com/rcasaluce/code_final_project/tree/master/A_Data_Collection/EPO/Data_parsed).
->>>>>>> e3d8859beb46736eab5755fbe6451f004df636d5
+
 
 
 [USPTO](https://github.com/rcasaluce/code_final_project/tree/master/A_Data_Collection/USPTO):
