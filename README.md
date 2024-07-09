@@ -129,9 +129,4 @@ This is the part of the data collected that has been manually labelled.
 ### [Unlabelled_Data](https://github.com/rcasaluce/final_project/tree/master/Unlabelled_data)
 This is the actual data collected from both patent offices for the four energy storage technologies.
 
--------------------------
 
-### [Z_Best_Models_Saved](https://github.com/rcasaluce/final_project/tree/master/Z_Best_models_saved)
-In this folder, I saved the best models for the claims, binary and multiclass models, and the best model for the abstract trained with the data labelled using the keyword search.
-
----
